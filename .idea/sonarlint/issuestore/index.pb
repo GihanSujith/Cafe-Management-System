@@ -19,3 +19,7 @@ c
 3src/main/java/com/cafe/constents/CafeConstants.java,4\c\4c56069217f1b2f7a23d12401ddb3172f681028b
 [
 +src/main/java/com/cafe/utils/CafeUtils.java,b\6\b64b17798c3f3a3c776db8bd0006a2cca916e9ef
+W
+'src/main/java/com/cafe/JWT/JwtUtil.java,a\c\ac0f28d0440731bdcffd033836e13a694b510393
+^
+.src/main/java/com/cafe/JWT/SecurityConfig.java,6\a\6a0e5b2344402f19f38495613d6a9b5fbd248720
